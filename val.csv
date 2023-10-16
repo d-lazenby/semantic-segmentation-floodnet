@@ -1,0 +1,6 @@
+images,masks
+semantic-segmentation-floodnet/val/val-org-img/6339.jpg,semantic-segmentation-floodnet/val/val-label-img/6339_lab.png
+semantic-segmentation-floodnet/val/val-org-img/6331.jpg,semantic-segmentation-floodnet/val/val-label-img/6331_lab.png
+semantic-segmentation-floodnet/val/val-org-img/6333.jpg,semantic-segmentation-floodnet/val/val-label-img/6333_lab.png
+semantic-segmentation-floodnet/val/val-org-img/6337.jpg,semantic-segmentation-floodnet/val/val-label-img/6337_lab.png
+semantic-segmentation-floodnet/val/val-org-img/6343.jpg,semantic-segmentation-floodnet/val/val-label-img/6343_lab.png

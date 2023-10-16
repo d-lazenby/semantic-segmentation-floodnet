@@ -1,0 +1,6 @@
+images,masks
+semantic-segmentation-floodnet/test/test-org-img/6371.jpg,semantic-segmentation-floodnet/test/test-label-img/6371_lab.png
+semantic-segmentation-floodnet/test/test-org-img/6362.jpg,semantic-segmentation-floodnet/test/test-label-img/6362_lab.png
+semantic-segmentation-floodnet/test/test-org-img/6336.jpg,semantic-segmentation-floodnet/test/test-label-img/6336_lab.png
+semantic-segmentation-floodnet/test/test-org-img/6353.jpg,semantic-segmentation-floodnet/test/test-label-img/6353_lab.png
+semantic-segmentation-floodnet/test/test-org-img/6342.jpg,semantic-segmentation-floodnet/test/test-label-img/6342_lab.png

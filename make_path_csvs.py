@@ -1,9 +1,4 @@
-import torch
-import cv2
-
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import os
 
 
@@ -19,16 +14,8 @@ def get_image_path_dfs(split):
     return df
 
 
-splits = ['train', 'val', 'test']
-dfs = []
-for split in splits:
-    df = get_image_path_dfs(split)
-    dfs.append(df)
-
-df_train, df_val, df_test = dfs[0], dfs[1], dfs[2]
-
-print(df_train)
-print(df_val)
-print(df_test)
-
-# TODO: write script that writes image and mask paths to CSVs for train, test and val images
+if __name__ == '__main__':
+    splits = ['train', 'val', 'test']
+    for split in splits:
+        df = get_image_path_dfs(split)
+        df.to_csv(f"{split}.csv", index=False)

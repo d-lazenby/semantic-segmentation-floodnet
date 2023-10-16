@@ -1,0 +1,6 @@
+images,masks
+semantic-segmentation-floodnet/train/train-org-img/6287.jpg,semantic-segmentation-floodnet/train/train-label-img/6287_lab.png
+semantic-segmentation-floodnet/train/train-org-img/6279.jpg,semantic-segmentation-floodnet/train/train-label-img/6279_lab.png
+semantic-segmentation-floodnet/train/train-org-img/6332.jpg,semantic-segmentation-floodnet/train/train-label-img/6332_lab.png
+semantic-segmentation-floodnet/train/train-org-img/6335.jpg,semantic-segmentation-floodnet/train/train-label-img/6335_lab.png
+semantic-segmentation-floodnet/train/train-org-img/6334.jpg,semantic-segmentation-floodnet/train/train-label-img/6334_lab.png
