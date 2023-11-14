@@ -3,6 +3,7 @@ import os
 
 import argparse
 
+
 def get_image_path_dfs(data_dir, split):
     for _, __, f in os.walk(os.path.join(data_dir, split, f'{split}-org-img')):
         df = pd.DataFrame(data=f, columns=['images'])
